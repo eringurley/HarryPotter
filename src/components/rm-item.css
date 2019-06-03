@@ -1,0 +1,16 @@
+li {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    border: 2px solid black;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 15px;
+    height: 250px;
+    width: 300px;
+    align-items: center;
+}
+
+ li img {
+   width: 20vh;
+}
