@@ -1,1 +1,1 @@
-# HarryPotter
+# Rick and Morty API
